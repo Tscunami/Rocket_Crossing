@@ -1,7 +1,7 @@
 # Rocket crossing game
 
 Whole project is visible on:
-- hhttps://repl.it/join/hvmtpbrc-luknplava
+- https://repl.it/join/hvmtpbrc-luknplava
 
 Description:
 - Don't run this game on replit.it, instead of it, download the rocket-crossing.zip and run it in any IDE (I recommend Pycharm)
